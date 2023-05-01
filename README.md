@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yateng
 - 👀 I’m interested in Back-End programing
-- 🌱 I’m currently learning Java, Python, C#, SQL, Maven, SpringBoot, Flask, ASP.Net, JS, CSS, HTML etc...
+- 🌱 I’m currently learning Java, Python, C#, SQL, Maven, SpringBoot, Android, Flask, ASP.Net, JS, CSS, HTML etc...
 - 📫 How to reach me: yatenggeng@gmail.com/ 514-571-6466
 - 
 
